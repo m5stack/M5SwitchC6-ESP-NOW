@@ -23,8 +23,6 @@ M5-SwitchC6 is an ESP-NOW based smart switch control library for controlling and
 1. ESP32 family (recommended)
 2. M5Stack devices
 
-### Full example project: https://gitlab.m5stack.com/moyongming/m5iot-switchc6-demo-pio
-
 ## Quick Start
 
 ### Basic usage

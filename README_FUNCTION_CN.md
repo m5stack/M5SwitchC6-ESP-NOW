@@ -23,8 +23,6 @@ M5-SwitchC6 是一个基于ESP-NOW协议的智能开关控制库，用于控制�
 1. **ESP32系列** (推荐)
 2. **M5Stack系列设备**
 
-### 完善的示例项目：https://gitlab.m5stack.com/moyongming/m5iot-switchc6-demo-pio
-
 ## 快速开始
 
 ### 基础使用
